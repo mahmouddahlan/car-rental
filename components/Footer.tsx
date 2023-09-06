@@ -9,9 +9,9 @@ const Footer = () => (
 
 
       <div className='flex flex-col justify-start items-start gap-6'>
-      <h1 className="text-3xl font-extrabold tracking-widest">Car Link</h1>
+      <h1 className="text-3xl font-extrabold tracking-widest">CarLink</h1>
         <p className='text-base text-gray-700'>
-          Car Link 2023 <br />
+          CarLink 2023 <br />
           All Rights Reserved &copy;
         </p>
       </div>
@@ -40,7 +40,7 @@ const Footer = () => (
 
 
     <div className='flex justify-between items-center flex-wrap mt-10 border-t border-gray-100 sm:px-16 px-6 py-10'>
-      <p>@2023 CarHub. All rights reserved</p>
+      <p>@2023 CarLink. All rights reserved</p>
       <div className="footer__copyrights-link">
         <Link href="/" className="text-gray-500">
           Privacy & Policy
